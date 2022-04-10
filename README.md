@@ -1,2 +1,0 @@
-# first
-:Sfx dam
